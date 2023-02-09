@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "Bot"
+title: Bot
 permalink: /bots
+has_children: true
 ---
 
 # Introduction

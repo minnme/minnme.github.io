@@ -1,7 +1,9 @@
 ---
+# It must be a subpage of the page /bots
 layout: page
 title: "Discord"
 permalink: /bots/discord
+parent: Bot
 ---
 
 Here the doc for discord bot
